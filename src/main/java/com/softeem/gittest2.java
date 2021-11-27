@@ -6,12 +6,6 @@ package com.softeem;
  */
 public class gittest2 {
     public static void main(String[] args) {
-        System.out.println("heee");
-        System.out.println("heee");
-        System.out.println("heee");
-        System.out.println("3333");
-        System.out.println("444");
-        System.out.println("555");
         System.out.println("tijiao");
     }
 }
